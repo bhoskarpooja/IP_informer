@@ -1,0 +1,39 @@
+body {
+  /* color:white; */
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 19px;
+  background-color: aliceblue;
+  background-repeat: hemp-green;
+  background-size: cover;
+  color: black;
+}
+.addr {
+  width: 25px;
+}
+.result .label {
+  display: inline-block;
+  width: 200px;
+}
+.main {
+  width: 800px;
+  height: 450px;
+  margin: 50px 400px;
+  border-radius: 10px;
+}
+.btn {
+  margin-top: 10;
+  font-size: 15px;
+  color: white;
+  background-color: rgb(57, 124, 224);
+  width: 105px;
+  height: 35px;
+  border-radius: 10px;
+  padding: 2px 2px;
+}
+.main input {
+  border: 2px solid gray;
+  border-radius: 5px;
+}
+.reset {
+  margin-left: 60px;
+}
